@@ -1,0 +1,2 @@
+# StockDataGatherAuto
+Gather Stock Data
