@@ -2,3 +2,6 @@
 2025-08-14 16:12:18.325 | INFO     | __main__:main:16 - Data fetch successful.
 2025-08-14 16:12:18.325 | INFO     | __main__:main:22 - CSV file created with headers.
 2025-08-14 16:12:18.326 | INFO     | __main__:main:25 - Data appended to CSV successfully.
+2025-08-14 16:48:35.726 | INFO     | __main__:main:10 - Starting stock fetch job...
+2025-08-14 16:48:36.553 | INFO     | __main__:main:16 - Data fetch successful.
+2025-08-14 16:48:36.553 | INFO     | __main__:main:25 - Data appended to CSV successfully.
