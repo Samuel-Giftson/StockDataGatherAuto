@@ -12,7 +12,7 @@ An automated stock data gathering pipeline that fetches hourly stock market data
 - Log all operations to `pipeline.log` with timestamps (using [Loguru](https://github.com/Delgan/loguru)).
 - Commit updated CSV and logs back to the repository automatically.
 
-All of this runs **entirely in the cloud** on GitHub’s infrastructure — no need to keep your computer on.
+All of this runs **entirely in the cloud** on GitHub’s infrastructure.
 
 ---
 
