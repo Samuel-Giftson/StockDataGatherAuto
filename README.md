@@ -61,5 +61,43 @@ Only Monday–Friday, excluding market holidays.
 
 ---
 
-## 📂 Project Structure
 
+
+
+## 🚀 Running Locally
+
+If you want to run the pipeline manually on your machine:
+
+
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/StockDataGatherAuto.git
+cd StockDataGatherAuto
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the script
+python main.py
+
+🧹 Clearing Test Data
+
+If you run manual tests and want to start with a fresh CSV before market hours:
+
+from CSVHandler import CSVHandler
+CSVHandler("stock_data.csv").wipe_all_rows()
+
+
+Commit & push the updated CSV to main so the next automated run starts clean.
+
+📝 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+
+---
+I kept it **clear, repo-focused, and non-fluffy** so someone landing on the GitHub page immediately understands:
+- What it does
+- How it works
+- How to run it locally
+- How it’s automated
+---
