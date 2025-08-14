@@ -94,10 +94,3 @@ Commit & push the updated CSV to main so the next automated run starts clean.
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 
----
-I kept it **clear, repo-focused, and non-fluffy** so someone landing on the GitHub page immediately understands:
-- What it does
-- How it works
-- How to run it locally
-- How it’s automated
----
